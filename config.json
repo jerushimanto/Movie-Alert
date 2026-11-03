@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "Jailer 2",
-  "requested_date": "20261019",
+  "movie": "Avengers: Doomsday",
+  "requested_date": "20261219",
   "venue_code": "PVPZ",
   "venue_label": "PVR: Palazzo, The Nexus Vijaya Mall",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/jailer-2/buytickets/ET00520664/20261019",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00439706/20261219",
   "min_references": 5
 }
